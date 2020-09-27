@@ -1,4 +1,7 @@
 # TreeBot
+![Deno Example](https://github.com/TanishShinde/TreeBot/workflows/Deno%20Example/badge.svg?branch=master)
+![Deno](https://github.com/TanishShinde/TreeBot/workflows/Deno/badge.svg)
+<br><br>
 treebot is a framework to create decision trees in deno
 
 ## Example:
